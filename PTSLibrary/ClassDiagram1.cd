@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="PTSLibrary.Customer">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.Project" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAABEAAQABAAEBAgQAAAIgAAAAIA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.PTSAdminFacade">
+    <Position X="1" Y="8" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAACAAAAIAAAAAAABAAEAAAAAACAA=</HashCode>
+      <FileName>PTSAdminFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.PTSClientFacade">
+    <Position X="4.25" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PTSClientFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.PTSCustomerFacade">
+    <Position X="7.25" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PTSCustomerFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.PTSSuperFacade">
+    <Position X="4.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PTSSuperFacade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.Task" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAAAAAQAAAgEAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.Team">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAEQCAABEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.TeamLeader">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>TeamLeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.User" Collapsed="true">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.wm75DataSet" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IIlMASAFA0AAooJJBAAASFACIAgiSBkAFECAAkEIDJE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.DAO.AdminDAO">
+    <Position X="1" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAACAAAAIAAAAAAABAAEAAAAAACAA=</HashCode>
+      <FileName>DAO\AdminDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.DAO.ClientDAO">
+    <Position X="4" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\ClientDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.DAO.CustomerDAO">
+    <Position X="7.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\CustomerDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.DAO.SuperDAO" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>DAO\SuperDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTSLibrary.Properties.Settings" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PTSLibrary.Status">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAIAAAAAAACAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Status.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
